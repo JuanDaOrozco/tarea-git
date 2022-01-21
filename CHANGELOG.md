@@ -6,7 +6,13 @@ Este formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.
 
 ## [Unreleased]
 
-## [0.2.0] - <18/01/2022>
+## [0.3.0] - 2022-21-01
+
+### Added
+
+- Fichero Vehicle.java
+
+## [0.2.0] - 2022-01-18
 
 ### Added
 
